@@ -1,0 +1,166 @@
+html {
+    background-color: black;
+}
+
+#bg {
+    background-image: url("img/bg.jpg");
+    position: relative;
+    background-repeat: repeat-y;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#blackred {
+    background-image: url("img/full.png");
+    background-repeat: repeat-y;
+}
+
+p {
+    color: white;
+}
+
+.text {
+    font-size: 14;
+    margin-left: 3px;
+}
+
+h2 {
+    color: white;
+    border-top: thick solid yellow;
+    font-weight: bold;
+}
+
+h3 {
+    background-color: yellow;
+    color: black;
+}
+
+.jaune {
+    color: yellow;
+}
+
+.filesunder {
+    border-left: thick solid yellow;
+}
+
+.quotetext {
+    margin-left: 15px;
+    margin-right: 25px;
+    background-color: #333333;
+    border-top: medium solid yellow;
+    border-bottom: medium solid yellow;
+}
+
+.pictureleft {
+    float: left;
+    border-top: medium solid yellow;
+    border-bottom: medium solid yellow;
+    border-left: medium solid yellow;
+    border-right: medium solid yellow;
+    padding: 5px;
+}
+
+.pictureright {
+    float: right;
+    border-top: medium solid yellow;
+    border-bottom: medium solid yellow;
+    border-left: medium solid yellow;
+    border-right: medium solid yellow;
+    padding: 5px;
+}
+
+.presquetoile {
+    list-style-image: url('img/bullet.gif');
+}
+
+.grassou {
+    font-weight: bold;
+    color: white;
+}
+
+.italico {
+    font-style: italic;
+    color: white;
+}
+
+#imgagauche img{
+  margin-left: -30px;
+}
+
+#imgagauche .titre{
+  margin-left: -4px;
+  margin-top:-396px;
+  width:75%;
+}
+.courrou{
+    margin-top:-350px;
+    font-size:24px;
+    font-weight:bold;
+    color:white;
+    list-style-image: url('img/star1.jpg');
+}
+.hello{
+  margin-left: -18px;
+}
+.h3droite{
+  border-top: thick solid yellow;
+  text-align: center;
+  font-weight: bold;
+  color:white;
+  font-size:24px;
+}
+.h4droite{
+  color:rgb(236, 21, 91);
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+}
+.nopuce{
+  list-style: none;
+  color:white;
+  font-weight: bold;
+  font-size: 18px;
+  border-top: medium solid yellow;
+  border-bottom: medium solid yellow;
+  border-left: medium solid yellow;
+  border-right: medium solid yellow;
+  margin-top: -10px;
+}
+.puce1{
+  padding-bottom: 100px;
+}
+.puce2{
+  padding-left: 11px;
+  padding-right: 11px;
+  padding-bottom: 5px;
+}
+
+.footer img{
+margin-left:465px;
+}
+.footer p{
+  margin-bottom:-280px;
+  margin-left:-25px;
+  padding-top: 50px;
+}
+.titrebasgauche{
+  font-weight: bold;
+  font-size:18px;
+}
+.basgauche{
+  list-style: none;
+}
+.basgauche li{
+  border-top: thin solid grey;
+  border-bottom: thin solid grey;
+  background-color:rgb(15, 15, 15);
+  font-size:16px;
+  padding-bottom:4px;
+  padding-top:4px;
+}
+
+.blockspace{
+  height:40px;
+}
